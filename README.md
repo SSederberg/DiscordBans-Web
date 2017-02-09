@@ -1,2 +1,2 @@
-# DiscordBans-Web
-The website front-end of DiscordBans
+## DiscordBans - Web
+A basic concept website for the global DiscordApp ban management system, "DiscordBans".
